@@ -23,3 +23,11 @@
 ![imageup.ru](https://imageup.ru/img250/4581065/test-keisy-funktsionalnosti-mob-prilozheniia-rublevskii-str1.jpg)
 ![imageup.ru](https://imageup.ru/img282/4581066/test-keisy-funktsionalnosti-mob-prilozheniia-rublevskii-str2.jpg)
 </details>
+
+
+<details>
+<summary>Пройденные тест-кейсы по регресионному тестированию (GoogleSheets)</summary>
+
+![imageup.ru](https://imageup.ru/img78/4581081/regressionnoe-testirovanie-samokat-test-keisy-1_page-0001.jpg)
+![imageup.ru](https://imageup.ru/img173/4581083/samokat-test-keisy-1_page-0002.jpg)
+</details>
