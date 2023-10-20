@@ -1,8 +1,8 @@
 # TestCase
 <details>
-<summary>Чек-лист верстки веб приложения Я Самокат(Google Sheets)</summary>
+<summary>Пример кейса проверки функциональности моб. приложения Яндекс Метро(Google Sheets)</summary>
   
-![Checkone](https://i.ibb.co/FBKnPdJ/image.jpg)
+![imageup.ru](https://imageup.ru/img110/4581058/primer-keisa-proverki-funktsionalnosti-mob-prilozheniia-iandeks-metro.png)
 </details>
 
 <details>
