@@ -6,7 +6,7 @@
 - Указаны достаточные и необходимые шаги без лишней ниформации 
 - Ожидаемый результат: однозначный 
 
-    
+ [Ссылка на тест-кейсы в Google Sheets](https://docs.google.com/spreadsheets/d/1o8tR--d0scJRdVgpq35-KrvMnK_P8JQ7FdrpOlrV414/edit?usp=sharing) 
 <details>
 <summary>Пример кейса проверки функциональности моб. приложения Яндекс Метро(tms.devexplab)</summary>
   
